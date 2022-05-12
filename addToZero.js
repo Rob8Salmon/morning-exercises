@@ -7,7 +7,7 @@ let value = "False"
 // Write your solution below:
 
 // create a loop that sets our first number to be compared, starting with index 0, then 1, then 2, etc...
-for ()
+
 
 // create an inner loop that sets our second number to be compared, starting with index 0
 
